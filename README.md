@@ -1,5 +1,5 @@
 # springExam1
-spring ractice
+spring practice
 
 sing in & member list management implement
 
